@@ -1,6 +1,3 @@
-@ -0,0 +1,195 @@
-# Rebound Society Manifesto
-
 ## Why Rebound Society Exists
 
 Rebound Society exists to build a durable creative collective where skaters, gamers, artists, editors, and builders can create together in public, consistently, and with recognizable identity.
@@ -173,19 +170,6 @@ The website is intentionally styled as a terminal vault because Rebound Society 
 - **Newswire** = live state updates.
 
 This framing aligns brand, UX, and community operations into one coherent model.
-
-## Strategic Direction
-
-Rebound Society should continue to optimize for:
-
-- reliable event cadence,
-- low-friction creator tooling,
-- beginner-to-creator training pathways,
-- clear contribution pathways,
-- stronger subnet interoperability,
-- and measurable public output quality.
-
-Growth is strongest when identity, operations, and output remain synchronized.
 
 ## Final Definition
 
