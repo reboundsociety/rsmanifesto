@@ -43,7 +43,10 @@ Operators are organized into tiers, including:
 
 - `R$:God`,
 - `R$:Demi-God // [LOA]`,
+- `R$:Directline`,
 - `R$:Godline`,
+- `R$:Eventline`,
+- `R$:Devline`,
 - `R$:Spotline`,
 - `R$:Skateline`,
 - `R$:Bloodline`.
